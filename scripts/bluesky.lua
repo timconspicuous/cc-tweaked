@@ -1,5 +1,5 @@
 -- Constants
-local PDS_HOST = "https://bsky.app"
+local PDS_HOST = "https://bsky.social"
 local CREATE_SESSION_URL = PDS_HOST .. "/xrpc/com.atproto.server.createSession"
 local CREATE_POST_URL = PDS_HOST .. "/xrpc/com.atproto.repo.createRecord"
 
